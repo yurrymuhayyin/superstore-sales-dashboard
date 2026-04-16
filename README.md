@@ -86,13 +86,14 @@ Tujuan utama dari dashboard ini adalah memberikan insight terkait penjualan, pro
 
 ## 📁 Dataset
 
-Dataset yang digunakan adalah dataset Superstore (sample dataset untuk analisis penjualan).
+Dataset yang digunakan adalah dataset Superstore (sample dataset untuk analisis penjualan) dan Dataset juga tersedia di folder `/Dataset` dalam repository ini.
 
 ---
 
 ## 👤 Author
 
 Dibuat oleh: **[Yurry Muhayyin Sindakh]**
+Linkedin : www.linkedin.com/in/yurry-muhayyin-sindakh
 
 ---
 
