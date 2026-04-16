@@ -53,10 +53,16 @@ Tujuan utama dari dashboard ini adalah memberikan insight terkait penjualan, pro
 
 ## 🧠 Insight Utama
 
-* Penjualan didominasi oleh region West
-* Category Furniture memberikan kontribusi terbesar terhadap sales
-* Sebagian besar customer berada di segmen Low Value
-* Pertumbuhan customer lebih banyak berasal dari returning customer dibandingkan new customer
+* Region West menjadi kontributor terbesar terhadap total penjualan
+* Category Furniture memberikan kontribusi sales yang besar, namun dengan margin yang relatif tipis → mengindikasikan potensi inefisiensi atau pricing yang kurang optimal
+* Category Technology menunjukkan performa profit yang lebih sehat dengan margin yang lebih tinggi dibanding kategori lainnya
+* Office Supplies cenderung stabil dengan kontribusi sales dan profit yang seimbang
+* Mayoritas customer berada pada segmen Low Value
+* Pertumbuhan customer lebih didorong oleh returning customer dibandingkan akuisisi customer baru
+
+Terdapat anomali menarik pada tren bulanan:
+* Pada bulan maret data menunjukkan profit tinggi meskipun sales relatif rendah (high margin 6.24%)
+* Sedangkan bulan November memiliki sales tinggi namun margin rendah (~1.63%), mengindikasikan kemungkinan diskon besar atau perubahan product mix
 
 ---
 
